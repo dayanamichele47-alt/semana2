@@ -1,0 +1,20 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+
+git clone https://github.com/dayanamichele47-alt/semana2.git
+
+git add .
+
+git commit -m "actividad semana 2"
+
+git branch -M main
+
+git remote remove origin
+
+git remote add origin https://github.com/dayanamichele47-alt/semana2.git
+
+git push -u origin main
+
+git status

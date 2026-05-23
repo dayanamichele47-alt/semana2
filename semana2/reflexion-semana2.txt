@@ -1,9 +1,18 @@
-Es importante que un desarrollador sepa usar la terminal porque le permite trabajar de forma más rápida y organizada.
-Con la terminal puede navegar entre carpetas sin depender siempre del mouse.
-También puede crear archivos y directorios necesarios para organizar un proyecto.
-Esto ayuda a mantener una estructura clara dentro del repositorio.
-Además, la terminal permite usar Git para guardar los cambios del trabajo realizado.
-Por medio de comandos como git add, git commit y git push se puede publicar el proyecto en GitHub.
-Saber usar la terminal mejora la autonomía del desarrollador.
-También facilita el trabajo en equipo y el control de versiones.
-Por eso es una herramienta básica en el desarrollo de software.
+Es importante que un desarrollador sepa usar la terminal porque le permite trabajar de forma más rápida y organizada.
+
+Con la terminal puede navegar entre carpetas sin depender siempre del mouse.
+
+También puede crear archivos y directorios necesarios para organizar un proyecto.
+
+Esto ayuda a mantener una estructura clara dentro del repositorio.
+
+Además, la terminal permite usar Git para guardar los cambios del trabajo realizado.
+
+Por medio de comandos como git add, git commit y git push se puede publicar el proyecto en GitHub.
+
+Saber usar la terminal mejora la autonomía del desarrollador.
+
+También facilita el trabajo en equipo y el control de versiones.
+
+Por eso es una herramienta básica en el desarrollo de software.
+
